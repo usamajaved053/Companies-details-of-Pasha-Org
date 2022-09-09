@@ -1,16 +1,9 @@
-<style>
-td, th {
-   border: none!important;
-}
-th {
-    display: none;
-}
-</style>
+
 
 ## About:
-|  |  |
-| ----- | ----- |
-| This directry contain python script to extract companies list from [Pasha, Pakistan Software Houses Association](https://www.pasha.org.pk). | ![Pasha Logo](https://www.pasha.org.pk/pashapk/2020/08/logo-183x60-1.png) |
+This directry contain python script to extract companies list from [Pasha, Pakistan Software Houses Association](https://www.pasha.org.pk). 
+
+![Pasha Logo](https://www.pasha.org.pk/pashapk/2020/08/logo-183x60-1.png)
 
 
 
